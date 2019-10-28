@@ -11,5 +11,11 @@
 
     <artifactId>config-server</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.cdb</groupId>
+            <artifactId>common</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
